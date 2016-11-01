@@ -1,0 +1,25 @@
+{
+  "name": "react-app1",
+  "version": "1.0.0",
+  "description": "this is my first react app",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/vivian-lin.git"
+  },
+  "author": "vivian lin, vivianlin.is@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/vivian-lin/issues"
+  },
+  "homepage": "https://github.com/github.com/vivian-lin#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
